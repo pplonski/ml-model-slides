@@ -1,6 +1,6 @@
-# Create Slides for Machine Learning model
+# Interactive Slides for Machine Learning model
 
-Create interactive slides for Machine Learning models. 
+Create interactive slides for Machine Learning models from Jupyter Notebook!
 
 There are two notebooks available:
 - one nootebook to train Random Forest on Iris dataset
