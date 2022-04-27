@@ -6,9 +6,9 @@ There are two notebooks available:
 - one nootebook to train Random Forest on Iris dataset
 - one notebook to predict Iris species - it is served as online presentation. You can select sample values during presentation and compute the prediction in the slides! 😎
 
-The app is available online, deployed at Heroku https://ml-model-presentation.herokuapp.com/
+The notebooks are deployed on online server as website and slides. It is created with [Mercury](https://github.com/mljar/mercury) framework.
 
-The website and slides are created with [Mercury](https://github.com/mljar/mercury) framework.
+The app is available online, deployed at Heroku https://ml-model-presentation.herokuapp.com/
 
 ## Screenshot 
 
