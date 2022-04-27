@@ -1,0 +1,5 @@
+mljar-mercury
+scikit-learn
+pandas
+matplotlib
+seaborn
