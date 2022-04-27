@@ -12,7 +12,7 @@ The app is available online, deployed at Heroku https://ml-model-presentation.he
 
 ## Screenshot 
 
-![](https://github.com/pplonski/ml-model-slides/raw/main/media/ml-model-slides-screenshot.png)
+![](https://github.com/pplonski/ml-model-slides/raw/main/media/ml-model-slides.png)
 
 ## Demo
 
